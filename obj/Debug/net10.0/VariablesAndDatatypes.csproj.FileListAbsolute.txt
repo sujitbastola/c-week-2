@@ -1,0 +1,14 @@
+/Users/mac/Desktop/year 3/c#/week2/VariablesAndDatatypes/bin/Debug/net10.0/VariablesAndDatatypes
+/Users/mac/Desktop/year 3/c#/week2/VariablesAndDatatypes/bin/Debug/net10.0/VariablesAndDatatypes.deps.json
+/Users/mac/Desktop/year 3/c#/week2/VariablesAndDatatypes/bin/Debug/net10.0/VariablesAndDatatypes.runtimeconfig.json
+/Users/mac/Desktop/year 3/c#/week2/VariablesAndDatatypes/bin/Debug/net10.0/VariablesAndDatatypes.dll
+/Users/mac/Desktop/year 3/c#/week2/VariablesAndDatatypes/bin/Debug/net10.0/VariablesAndDatatypes.pdb
+/Users/mac/Desktop/year 3/c#/week2/VariablesAndDatatypes/obj/Debug/net10.0/VariablesAndDatatypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/year 3/c#/week2/VariablesAndDatatypes/obj/Debug/net10.0/VariablesAndDatatypes.AssemblyInfoInputs.cache
+/Users/mac/Desktop/year 3/c#/week2/VariablesAndDatatypes/obj/Debug/net10.0/VariablesAndDatatypes.AssemblyInfo.cs
+/Users/mac/Desktop/year 3/c#/week2/VariablesAndDatatypes/obj/Debug/net10.0/VariablesAndDatatypes.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/year 3/c#/week2/VariablesAndDatatypes/obj/Debug/net10.0/VariablesAndDatatypes.dll
+/Users/mac/Desktop/year 3/c#/week2/VariablesAndDatatypes/obj/Debug/net10.0/refint/VariablesAndDatatypes.dll
+/Users/mac/Desktop/year 3/c#/week2/VariablesAndDatatypes/obj/Debug/net10.0/VariablesAndDatatypes.pdb
+/Users/mac/Desktop/year 3/c#/week2/VariablesAndDatatypes/obj/Debug/net10.0/VariablesAndDatatypes.genruntimeconfig.cache
+/Users/mac/Desktop/year 3/c#/week2/VariablesAndDatatypes/obj/Debug/net10.0/ref/VariablesAndDatatypes.dll
