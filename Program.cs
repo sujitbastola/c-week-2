@@ -126,6 +126,39 @@
             Console.WriteLine($"Age in Years: {years}");
             Console.WriteLine($"Birth Date + 10 Days: {birthDate.AddDays(10)}");
 
+            // ---- Task 6: List<T> and Dictionary<K,V> ----
+            List<string> fruits = new() { "Apple", "Mango", "Banana" };
+
+            // TODO 17: add one more fruit to the end of the list.
+            fruits.Add("Orange");
+
+            // TODO 18: remove one fruit from the list.
+            fruits.Remove("Mango");
+
+            // TODO 19: print every remaining fruit on its own line using a
+            //          foreach loop.
+            foreach (string fruit in fruits)
+            {
+                Console.WriteLine(fruit);
+            }
+
+            // TODO 20: declare a Dictionary<int, string> called byId whose
+            //          keys are 1, 2 and 3 and whose values are fruit names.
+            Dictionary<int, string> byId = new()
+            {
+                { 1, "Apple" },
+                { 2, "Banana" },
+                { 3, "Orange" }
+            };
+
+            // TODO 21: add a fourth entry, then print every key-value pair
+            //          using a foreach loop over the dictionary.
+            byId[4] = "Mango";
+            foreach (var kvp in byId)
+            {
+                Console.WriteLine($"Key: {kvp.Key}, Value: {kvp.Value}");
+            }
+
 
         }
     }
